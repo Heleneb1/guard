@@ -1,9 +1,21 @@
+h2 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid;
+    background-color: rgb(127, 83, 132);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+
+}
+
 .form-card {
     box-sizing: border-box;
     width: 50%;
     margin: 20px auto;
     padding: 10px 30px;
-    box-shadow: lightgray 4px 4px 20px;
+    box-shadow: rgb(209, 234, 239) 4px 4px 20px;
 }
 
 .form-group {
